@@ -88,3 +88,9 @@
 
 ## ➡️ الخطوة الجاية المقترحة
 - اختار الميزة الجديدة أو التعديل اللي عايزه → يتنفّذ في السورس المفكوك → بناء + توقيع + رفع نسخة جديدة على Releases.
+
+---
+
+## 🔗 روابط سريعة
+- المستودع: https://github.com/10Mohammed1/AyuGram-Studio
+- كل الملفات الكبيرة (Releases): https://github.com/10Mohammed1/AyuGram-Studio/releases/latest
