@@ -1,0 +1,1586 @@
+[
+  {
+    "name": "Preferences",
+    "value": "تفضيلات exteraGram"
+  },
+  {
+    "name": "Links",
+    "value": "الروابط"
+  },
+  {
+    "name": "AboutExteraDescription",
+    "value": "عميل تيليجرام تجريبي استناداً إلى شفرة المصدر الرسمي!"
+  },
+  {
+    "name": "Crowdin",
+    "value": "ترجمة"
+  },
+  {
+    "name": "Website",
+    "value": "الموقع الإلكتروني"
+  },
+  {
+    "name": "Categories",
+    "value": "الفئات"
+  },
+  {
+    "name": "DeveloperCompact",
+    "value": "Arabic."
+  },
+  {
+    "name": "NoSuchSetting",
+    "value": "يبدو أن مثل هذا الإعداد غير موجود."
+  },
+  {
+    "name": "SettingLinkToSavedMessages",
+    "value": ": تم إرسال رابط الإعدادات إلى الرسائل المحفوظة"
+  },
+  {
+    "name": "SettingLinkToUser",
+    "value": "تم إرسال رابط الإعداد إلى **%1$s**."
+  },
+  {
+    "name": "SettingLinkToChats",
+    "value": "تم إرسال رابط اللغة %1$s"
+  },
+  {
+    "name": "LiteBatteryFollowSystem",
+    "value": "استخدام موفر بطارية النظام"
+  },
+  {
+    "name": "LiteBatteryFollowSystemState",
+    "value": "النظام"
+  },
+  {
+    "name": "LiteBatteryFollowSystemInfo",
+    "value": "التحكم بواسطة توفير البطارية للنظام."
+  },
+  {
+    "name": "PillStackPills",
+    "value": "تجميع الرسائل"
+  },
+  {
+    "name": "PillStackPillsInfo",
+    "value": "إظهار عناصر البحث التفاعلية"
+  },
+  {
+    "name": "PillStackPillsSettingsInfo",
+    "value": "تخصيص العناصر المرئية. اضغط للإظهار أو الإخفاء، واستمر بالضغط مع السحب لتغيير ترتيب العرض."
+  },
+  {
+    "name": "PillStackActivePills",
+    "value": "العناصر النشطة"
+  },
+  {
+    "name": "PillStackHiddenPills",
+    "value": "العناصر المخفية"
+  },
+  {
+    "name": "CurrentLocation",
+    "value": "الموقع الحالي "
+  },
+  {
+    "name": "SelectLocation",
+    "value": "تحديث على الخريطة "
+  },
+  {
+    "name": "WeatherPill",
+    "value": "الطقس "
+  },
+  {
+    "name": "WeatherSettingsInfo",
+    "value": "اختر كيفية تحديد الموقع لعرض الطقس في  البحت "
+  },
+  {
+    "name": "WeatherLocation",
+    "value": "اكتشاف الموقع "
+  },
+  {
+    "name": "WeatherLocationPermissionNo",
+    "value": "\nيحتاج تطبيق exteraGram إلى الوصول إلى موقعك لعرض الطقس الحالي"
+  },
+  {
+    "name": "WeatherLocationPermissionGrant",
+    "value": "منح الادن "
+  },
+  {
+    "name": "WeatherLocationServicesEnable",
+    "value": "تفعيل الموقع "
+  },
+  {
+    "name": "WeatherPillTopInfo",
+    "value": "اعدادات التطبيقات المصغرة ل مدكس بيل "
+  },
+  {
+    "name": "PillStackInfiniteScrolling",
+    "value": "التمرير  النهائي "
+  },
+  {
+    "name": "CryptoPillTargetCurrency",
+    "value": "العملة المستهدفة "
+  },
+  {
+    "name": "CryptoCurrencyUsd",
+    "value": "دولار أمريكي "
+  },
+  {
+    "name": "CryptoCurrencyEur",
+    "value": "يورو "
+  },
+  {
+    "name": "CryptoCurrencyRub",
+    "value": "الروبل الروسي "
+  },
+  {
+    "name": "CryptoCurrencyGbp",
+    "value": "الجنيه الاسترليني "
+  },
+  {
+    "name": "CryptoCurrencyKzt",
+    "value": "التنج الكستاني"
+  },
+  {
+    "name": "CryptoCurrencyTry",
+    "value": "الليرة التركية "
+  },
+  {
+    "name": "CryptoCurrencyUah",
+    "value": "الريفنيا الأوكرانية"
+  },
+  {
+    "name": "CryptoCurrencyPln",
+    "value": "الروبية الهندية"
+  },
+  {
+    "name": "CryptoCurrencyAed",
+    "value": "الدرهم الإماراتي"
+  },
+  {
+    "name": "CryptoCurrencyCny",
+    "value": "اليوان  الصيني"
+  },
+  {
+    "name": "CryptoCurrencyJpy",
+    "value": "الين الياباني"
+  },
+  {
+    "name": "CryptoCurrencyByn",
+    "value": "روبل بيلاروسي"
+  },
+  {
+    "name": "CryptoCurrencyIls",
+    "value": "شيكل إسرائيلي جديد"
+  },
+  {
+    "name": "CryptoCurrencyCzk",
+    "value": "كرونة تشيكية"
+  },
+  {
+    "name": "CryptoCurrencyInr",
+    "value": "الروبية الهندية"
+  },
+  {
+    "name": "ProxyDoNotUseWithVPN",
+    "value": "لا تستخدم مع VPN"
+  },
+  {
+    "name": "ProxyDisableOn",
+    "value": "تعطيل البروكسي"
+  },
+  {
+    "name": "ProxyDisableNever",
+    "value": "أبداً"
+  },
+  {
+    "name": "ProxyDisableAlways",
+    "value": "دائماً"
+  },
+  {
+    "name": "ProxyDisableOnMobileData",
+    "value": "بيانات الجوال"
+  },
+  {
+    "name": "ProxyType",
+    "value": "نوع"
+  },
+  {
+    "name": "Unknown",
+    "value": "غير معروف"
+  },
+  {
+    "name": "ProxyRename",
+    "value": "اسم البروكسي (اختياري)"
+  },
+  {
+    "name": "ProxyPinLimitReached",
+    "value": "يمكنك تثبيت حتى وكيل %1$d."
+  },
+  {
+    "name": "CopyIpAddress",
+    "value": "نسخ عنوان IP"
+  },
+  {
+    "name": "IpInfoUnavailable",
+    "value": "تعذر تحميل معلومات عنوان IP."
+  },
+  {
+    "name": "IpInfoCountry",
+    "value": "الدولة"
+  },
+  {
+    "name": "IpInfoRegion",
+    "value": "المنطقة"
+  },
+  {
+    "name": "IpInfoCity",
+    "value": "المدينة"
+  },
+  {
+    "name": "IpInfoIsp",
+    "value": "مزود الخدمة"
+  },
+  {
+    "name": "IpInfoOrganization",
+    "value": "المؤسسة"
+  },
+  {
+    "name": "IpInfoDomain",
+    "value": "المجال"
+  },
+  {
+    "name": "IpInfoTimezone",
+    "value": "المنطقة الزمنية"
+  },
+  {
+    "name": "TranslationTarget",
+    "value": "كيف حالك"
+  },
+  {
+    "name": "TranslationTargetApp",
+    "value": "اللغة الإفتراضية"
+  },
+  {
+    "name": "ShowTranslateChatButtonLocked",
+    "value": "اختر مزوّد ترجمة آخر أو اشترك في **Telegram Premium**."
+  },
+  {
+    "name": "DisableNumberRounding",
+    "value": "تعطيل تقريب الأرقام"
+  },
+  {
+    "name": "FormatTimeWithSeconds",
+    "value": "تنسيق الوقت بالثواني"
+  },
+  {
+    "name": "RelativeLastSeen",
+    "value": "آخر ظهور نسبيآ"
+  },
+  {
+    "name": "DisableNotificationDelay",
+    "value": "تعطيل تأخير الإشعارات"
+  },
+  {
+    "name": "AccountNotifications",
+    "value": "إشعارات الحساب"
+  },
+  {
+    "name": "AccountNotificationsCount",
+    "value": "%1$d من %2$d"
+  },
+  {
+    "name": "AccountNotificationsInfo",
+    "value": "لا تعرض إشعارات الحسابات غير المحددة في أثناء استخدام حساب آخر."
+  },
+  {
+    "name": "AccountNotificationsCurrent",
+    "value": "يتم عرض الإشعارات من الحساب الحالي دائمًا."
+  },
+  {
+    "name": "CodeBlock",
+    "value": "كود"
+  },
+  {
+    "name": "CreateCode",
+    "value": "إنشاء كتلة كود"
+  },
+  {
+    "name": "CreateCodeLanguage",
+    "value": "اللغة"
+  },
+  {
+    "name": "DownloadSpeedBoost",
+    "value": "زيادة سرعة التحميل"
+  },
+  {
+    "name": "UploadSpeedBoost",
+    "value": "زيادة سرعة الرفع"
+  },
+  {
+    "name": "Ultra",
+    "value": "الفائق"
+  },
+  {
+    "name": "StorageSettings",
+    "value": "التخزين"
+  },
+  {
+    "name": "CustomSavePath",
+    "value": "مجلد حفظ مخصص"
+  },
+  {
+    "name": "CustomSavePathHint",
+    "value": "اتركه فارغاً للحفظ مباشرة في الجذر"
+  },
+  {
+    "name": "CustomSavePathDefault",
+    "value": "حفظ في الجذر"
+  },
+  {
+    "name": "CustomSavePathInfo",
+    "value": "سيتم تخزين الملفات المحفوظة مباشرة في الصور، التنزيلات، إلخ."
+  },
+  {
+    "name": "CustomSavePathInfoFolder",
+    "value": "سيتم تخزين الملفات المحفوظة في الصور/%1$s، التنزيلات/%1$s، إلخ."
+  },
+  {
+    "name": "Profile",
+    "value": "الملف الشخصي"
+  },
+  {
+    "name": "HidePhoneNumber",
+    "value": "إخفاء رقم الهاتف"
+  },
+  {
+    "name": "ShowIdAndDc",
+    "value": "إظهار المعرف وDC"
+  },
+  {
+    "name": "HideArchiveFolder",
+    "value": "إخفاء مجلد الأرشيف"
+  },
+  {
+    "name": "ArchiveOnPull",
+    "value": "فتح الأرشيف عند السحب للأسفل"
+  },
+  {
+    "name": "Appearance",
+    "value": "المظهر"
+  },
+  {
+    "name": "AvatarCorners",
+    "value": "زوايا الصورة الرمزية"
+  },
+  {
+    "name": "AvatarCornersLeft",
+    "value": "مربع"
+  },
+  {
+    "name": "AvatarCornersRight",
+    "value": "دائري"
+  },
+  {
+    "name": "SingleCornerRadius",
+    "value": "نصف قطر ركن واحد"
+  },
+  {
+    "name": "SingleCornerRadiusInfo",
+    "value": "المنتديات سيكون لها نفس الشكل الرمزي كالدردشة."
+  },
+  {
+    "name": "ListOfChats",
+    "value": "قائمة الدردشة"
+  },
+  {
+    "name": "ActionBarTitle",
+    "value": "نص العنوان"
+  },
+  {
+    "name": "ActionBarTitleUsername",
+    "value": "اسم المستخدم"
+  },
+  {
+    "name": "ActionBarTitleName",
+    "value": "الاسم الأول"
+  },
+  {
+    "name": "HideStories",
+    "value": "إخفاء القصص"
+  },
+  {
+    "name": "HideActionBarStatus",
+    "value": "إخفاء الحالة"
+  },
+  {
+    "name": "CenterTitle",
+    "value": "عنوان متوسط"
+  },
+  {
+    "name": "ChatHeader",
+    "value": "رأس المحادثة"
+  },
+  {
+    "name": "HideFloatingButton",
+    "value": "إخفاء الزر العائم"
+  },
+  {
+    "name": "HideDialogsSearchBar",
+    "value": "إخفاء شريط البحث"
+  },
+  {
+    "name": "BottomNavigationBarMode",
+    "value": "شريط التنقل السفلي"
+  },
+  {
+    "name": "BottomNavigationModeShow",
+    "value": "إظهار"
+  },
+  {
+    "name": "BottomNavigationModeHide",
+    "value": "إخفاء"
+  },
+  {
+    "name": "BottomNavigationModeFloating",
+    "value": "عائمة"
+  },
+  {
+    "name": "ListOfChatsInfo",
+    "value": "عند تمكين\\\" الرموز فقط\\\" للمجلدات، سيعرض العنوان الرئيس اسم المجلد."
+  },
+  {
+    "name": "TabTitleStyle",
+    "value": "عنوان علامة التبويب"
+  },
+  {
+    "name": "TabTitleStyleTextWithIcons",
+    "value": "أسماء مع أيقونات"
+  },
+  {
+    "name": "TabTitleStyleIconsOnly",
+    "value": "أيقونات فقط"
+  },
+  {
+    "name": "TabTitleStyleTextOnly",
+    "value": "أسماء فقط"
+  },
+  {
+    "name": "TabCounter",
+    "value": "عداد علامات التبويب"
+  },
+  {
+    "name": "TabCounterUnmuted",
+    "value": "غير المكتومة"
+  },
+  {
+    "name": "HideAllChats",
+    "value": "إخفاء تبويب \\\"%1$s\\\""
+  },
+  {
+    "name": "AppNavigation",
+    "value": "التنقل في التطبيق"
+  },
+  {
+    "name": "AppNavigationInfo",
+    "value": "إعدادات القائمة ودرج القائمة أعلى اليمين"
+  },
+  {
+    "name": "NavigationDrawer",
+    "value": "شريط التنقل"
+  },
+  {
+    "name": "NavigationDrawerInfo",
+    "value": "يستبدل القائمة العلوية اليمنى بالقائمة الكلاسيكية للسحب للفتح و زر هامبرغر."
+  },
+  {
+    "name": "NavigationDrawerImmersiveAnimation",
+    "value": "الرسوم المتحركة الغامرة"
+  },
+  {
+    "name": "NavigationDrawerProxyPingShort",
+    "value": "%1$d ميلي ثانية"
+  },
+  {
+    "name": "MainMenuItems",
+    "value": "عناصر القائمة"
+  },
+  {
+    "name": "MainMenuItemsInfo",
+    "value": "انقر لإظهار أو إخفاء العناصر، مع الاستمرار لإعادة الترتيب. يتم مشاركة التخطيط بين القائمة ودرج التخطيط."
+  },
+  {
+    "name": "MainMenuHiddenItems",
+    "value": "عناصر القائمة المخفية"
+  },
+  {
+    "name": "MainMenuDivider",
+    "value": "فاصل"
+  },
+  {
+    "name": "MainMenuAddDivider",
+    "value": "إضافة فاصل"
+  },
+  {
+    "name": "MainMenuRemoveSettingsInfo",
+    "value": "لا يمكن إخفاء الإعدادات أثناء تعطيل شريط التنقل السفلي."
+  },
+  {
+    "name": "IconPickerFilter",
+    "value": "فلتر"
+  },
+  {
+    "name": "IconPickerReplacedIcons",
+    "value": "الأيقونات المستبدلة"
+  },
+  {
+    "name": "IconPickerNotReplacedIcons",
+    "value": "الأيقونات غير المستبدلة"
+  },
+  {
+    "name": "NewIconPack",
+    "value": "إنشاء حزمة أيقونات جديدة"
+  },
+  {
+    "name": "EditIconPackInfo",
+    "value": "تعديل المعلومات"
+  },
+  {
+    "name": "EnabledPacks",
+    "value": "الحزم المفعلة"
+  },
+  {
+    "name": "PackName",
+    "value": "اسم الحزمة"
+  },
+  {
+    "name": "AuthorNameOptional",
+    "value": "اسم المؤلف (اختياري)"
+  },
+  {
+    "name": "NameCannotBeEmpty",
+    "value": "الاسم لا يمكن أن يكون فارغاً."
+  },
+  {
+    "name": "Version",
+    "value": "إصدار"
+  },
+  {
+    "name": "InstallPack",
+    "value": "تثبيت الحزمة"
+  },
+  {
+    "name": "IconCount_one",
+    "value": "أيقونة %1$d"
+  },
+  {
+    "name": "IconCount_two",
+    "value": "أيقونات %1$d"
+  },
+  {
+    "name": "IconCount_few",
+    "value": "أيقونات %1$d"
+  },
+  {
+    "name": "IconCount_many",
+    "value": "أيقونة %1$d"
+  },
+  {
+    "name": "IconCount_other",
+    "value": "أيقونات %1$d"
+  },
+  {
+    "name": "UpdatePack",
+    "value": "ايوجرام"
+  },
+  {
+    "name": "DeletePack",
+    "value": "حذف الحزمة"
+  },
+  {
+    "name": "DeletePackInfo",
+    "value": "هل أنت متأكد من أنك تريد حذف %1$s؟"
+  },
+  {
+    "name": "IconPackErrorInvalidArchive",
+    "value": "أرشيف حزمة الأيقونات غير صالح."
+  },
+  {
+    "name": "IconPackErrorMissingMetadata",
+    "value": "أرشيف حزمة الأيقونات يفتقر إلى metadata.json."
+  },
+  {
+    "name": "IconPackErrorMetadataTooLarge",
+    "value": "بيانات حزمة الأيقونات كبيرة جداً."
+  },
+  {
+    "name": "IconPackErrorInvalidMetadata",
+    "value": "بيانات حزمة الأيقونات غير صالحة."
+  },
+  {
+    "name": "IconPackErrorTooManyFiles",
+    "value": "حزمة الأيقونات تحتوي على عدد كبير جداً من الملفات."
+  },
+  {
+    "name": "IconPackErrorArchiveTooLarge",
+    "value": "حزمة الأيقونات كبيرة جداً."
+  },
+  {
+    "name": "IconPackErrorFileTooLarge",
+    "value": "أحد ملفات الأيقونات كبير جداً."
+  },
+  {
+    "name": "IconPackErrorCompressionRatioTooHigh",
+    "value": "أرشيف حزمة الأيقونات مضغوط بشكل مفرط."
+  },
+  {
+    "name": "IconPackErrorStorage",
+    "value": "تعذر حفظ حزمة الأيقونات."
+  },
+  {
+    "name": "AppIconAurora",
+    "value": "أضواء قطبية"
+  },
+  {
+    "name": "AppIconAmethyst",
+    "value": "يَاقُوتٌ بَنَفْسَجِىّ‎"
+  },
+  {
+    "name": "AppIconCyberpunk",
+    "value": "Hh"
+  },
+  {
+    "name": "AppIconSpace",
+    "value": "فضاء"
+  },
+  {
+    "name": "AppIconIceAge",
+    "value": "العصر الجليدي"
+  },
+  {
+    "name": "AppIconEditor",
+    "value": "المؤلّف"
+  },
+  {
+    "name": "AppIconOrbit",
+    "value": "مدار"
+  },
+  {
+    "name": "AppIconSus",
+    "value": "مستورد"
+  },
+  {
+    "name": "AppIconWinter",
+    "value": "شتاء"
+  },
+  {
+    "name": "Sections",
+    "value": "الأقسام"
+  },
+  {
+    "name": "SeparateHeaders",
+    "value": "\\\".\\\""
+  },
+  {
+    "name": "DividerStyle",
+    "value": "نمط الفاصل"
+  },
+  {
+    "name": "DividerStyleHidden",
+    "value": "مخفي"
+  },
+  {
+    "name": "DividerStyleLine",
+    "value": "خط"
+  },
+  {
+    "name": "DividerStyleSegments",
+    "value": "قطاعات"
+  },
+  {
+    "name": "UseSystemFonts",
+    "value": "استخدام خطوط النظام"
+  },
+  {
+    "name": "UseSystemEmoji",
+    "value": "استخدام رموز النظام التعبيرية"
+  },
+  {
+    "name": "NewLoadingStyle",
+    "value": "تحميل المظهر"
+  },
+  {
+    "name": "NewSliderStyle",
+    "value": "نمط شريط التمرير"
+  },
+  {
+    "name": "NewSwitchStyle",
+    "value": "تغيير النمط"
+  },
+  {
+    "name": "TabletMode",
+    "value": "وضع الجهاز اللوحي"
+  },
+  {
+    "name": "RemoveMessageTail",
+    "value": "إزالة ذيل الرسالة"
+  },
+  {
+    "name": "GooeyAvatarAnimation",
+    "value": "\\\".\\\""
+  },
+  {
+    "name": "CustomChatThemes",
+    "value": "سمات مخصصة في الدردشات"
+  },
+  {
+    "name": "CustomChatThemesInfo",
+    "value": "ستعرض كل دردشة السمة التي تم اختيارها خصيصا لها."
+  },
+  {
+    "name": "PredictiveBackIntensity",
+    "value": "شدة الرجوع التوقعية"
+  },
+  {
+    "name": "PredictiveBackMax",
+    "value": "الحد الأقصى"
+  },
+  {
+    "name": "PredictiveBackInfo",
+    "value": "يضبط مدى تحرك الشاشة عند السحب للرجوع."
+  },
+  {
+    "name": "BlurOptions",
+    "value": "خيارات طمس"
+  },
+  {
+    "name": "GlassOutlineStyle",
+    "value": "مخطط زجاجي"
+  },
+  {
+    "name": "GlassOutlineGlare",
+    "value": "وهج"
+  },
+  {
+    "name": "GlassOutlineSolid",
+    "value": "صلب"
+  },
+  {
+    "name": "GlassOutlineHidden",
+    "value": "مخفي"
+  },
+  {
+    "name": "ForceBlur",
+    "value": "ضبابية إجبارية"
+  },
+  {
+    "name": "ForceSnow",
+    "value": "فرض رقاقات الثلج"
+  },
+  {
+    "name": "ForceSnowInfo",
+    "value": "ستظهر رقاقات الثلج المتساقطة في شريط الإجراءات والقائمة الجانبية وخلفيات الدردشة."
+  },
+  {
+    "name": "StickerSizeLeft",
+    "value": "صغير"
+  },
+  {
+    "name": "StickerSizeDialogMessageReplyTo",
+    "value": "رائع"
+  },
+  {
+    "name": "StickerShapeRounded",
+    "value": "مدوّر"
+  },
+  {
+    "name": "StickerShapeRoundedMsg",
+    "value": "رسالة"
+  },
+  {
+    "name": "ViewEmojiSet",
+    "value": "عرض مجموعة الإيموجي"
+  },
+  {
+    "name": "UnlimitedRecentStickers",
+    "value": "الملصقات الأخيرة غير المحدودة"
+  },
+  {
+    "name": "AIChatInfo2",
+    "value": "إنشاء نص من الرسائل أو قبل الإرسال."
+  },
+  {
+    "name": "ServiceInfo",
+    "value": "معلومات الخدمة"
+  },
+  {
+    "name": "ServiceProvider",
+    "value": "المزود"
+  },
+  {
+    "name": "ServiceProviderCustom",
+    "value": "مخصص"
+  },
+  {
+    "name": "ServiceTestAndSave",
+    "value": "اختبار وحفظ"
+  },
+  {
+    "name": "ServicePasteService",
+    "value": "لصق الخدمة"
+  },
+  {
+    "name": "ServicePasteKey",
+    "value": "لصق مفتاح API"
+  },
+  {
+    "name": "DeleteServiceInfo",
+    "value": "هل أنت متأكد من رغبتك في حذف **%1$s**؟"
+  },
+  {
+    "name": "Suggestions",
+    "value": "الاقتراحات"
+  },
+  {
+    "name": "DeleteRoleInfo",
+    "value": "هل أنت متأكد من رغبتك في حذف **%1$s**؟"
+  },
+  {
+    "name": "AIGeneration",
+    "value": "التوليد"
+  },
+  {
+    "name": "AIReasoning",
+    "value": "التفكير المنطقي"
+  },
+  {
+    "name": "AIReasoningInfo",
+    "value": "يسمح للنماذج المدعومة في هذه الخدمة بإنفاق رموز إضافية للتفكير قبل الإجابة."
+  },
+  {
+    "name": "AITemperature",
+    "value": "درجة الحرارة"
+  },
+  {
+    "name": "AITemperatureInfo",
+    "value": "تتحكم درجة الحرارة في عشوائية الاستجابة: القيم الأعلى تكون أكثر إبداعاً، والقيم الأدنى أكثر تركيزاً."
+  },
+  {
+    "name": "AIError403",
+    "value": "تم رفض الوصول"
+  },
+  {
+    "name": "AIError403Info",
+    "value": "ليس لديك إذن للوصول إلى هذا النموذج أو المورد. تحقق من مفتاح API الخاص بك وأذونات الحساب."
+  },
+  {
+    "name": "AIError503",
+    "value": "الخدمة غير متوفرة"
+  },
+  {
+    "name": "AIError503Info",
+    "value": "الخدمة غير متوفرة مؤقتاً أو مزدحمة. يرجى المحاولة مرة أخرى لاحقاً."
+  },
+  {
+    "name": "DoubleTap",
+    "value": "نقر مزدوج"
+  },
+  {
+    "name": "DoubleTapIncoming",
+    "value": "الرسائل الواردة"
+  },
+  {
+    "name": "DoubleTapOutgoing",
+    "value": "الرسائل المرسلة"
+  },
+  {
+    "name": "DoubleTapInfo",
+    "value": "تتطلب بعض الإجراءات حقوق المسؤول في المحادثة أو القناة."
+  },
+  {
+    "name": "BottomButton",
+    "value": "الزر السفلي"
+  },
+  {
+    "name": "ChannelDiscussNoCaps",
+    "value": "مناقشة"
+  },
+  {
+    "name": "DisableGreetingSticker",
+    "value": "تعطيل ملصق التحية"
+  },
+  {
+    "name": "AdminShortcuts",
+    "value": "اختصارات المشرف السريعة"
+  },
+  {
+    "name": "HideKeyboardOnScroll",
+    "value": "إخفاء لوحة المفاتيح عند التمرير"
+  },
+  {
+    "name": "HideShareButton",
+    "value": "إخفاء الزر%1$s\\\" الجانبي"
+  },
+  {
+    "name": "MessageMenu",
+    "value": "قائمة الرسائل"
+  },
+  {
+    "name": "GlassMessageMenu",
+    "value": "قائمة الرسائل الزجاجية"
+  },
+  {
+    "name": "GlassMessageMenuBlurOff",
+    "value": "القوائم الزجاجية تحتاج إلى تأثير الضبابية، وهو معطل حالياً."
+  },
+  {
+    "name": "AddCommaAfterMention",
+    "value": "إضافة فاصلة بعد الإشارة"
+  },
+  {
+    "name": "HideSendAsPeer",
+    "value": "MUSTAFA"
+  },
+  {
+    "name": "ShowPollResultsBeforeVoting",
+    "value": "عرض النتائج قبل التصويت"
+  },
+  {
+    "name": "ShowPollResultsBeforeVotingHint",
+    "value": "عرض النتائج لكل خيار قبل إرسال تصويتك."
+  },
+  {
+    "name": "ShowOnlineStatus",
+    "value": "إظهار مؤشر الإنترنت"
+  },
+  {
+    "name": "MessagePreviewDialogMessage",
+    "value": "يمكنني تناول الزجاج ولا يؤذيني."
+  },
+  {
+    "name": "DeleteRecognitionModel",
+    "value": "حذف النموذج"
+  },
+  {
+    "name": "DeleteRecognitionModelInfo",
+    "value": "هل أنت متأكد من رغبتك في حذف نموذج اللغة \\\"**%1$s**\\\"؟"
+  },
+  {
+    "name": "RecognitionModelDeleted",
+    "value": "تم حذف النموذج بنجاح."
+  },
+  {
+    "name": "RecognitionModelDeleteError",
+    "value": "حدث خطأ أثناء حذف النموذج."
+  },
+  {
+    "name": "StartWithWideAngleCamera",
+    "value": "بدء بالزاوية الواسعة"
+  },
+  {
+    "name": "ZoomSlider",
+    "value": "شريط التكبير"
+  },
+  {
+    "name": "ZoomSliderInfo",
+    "value": "إظهار التحكم في التكبير أسفل كاميرا رسالة الفيديو."
+  },
+  {
+    "name": "StaticZoom",
+    "value": "التكبير الثابت"
+  },
+  {
+    "name": "VideoMessagesCamera",
+    "value": "الكاميرا في رسائل الفيديو"
+  },
+  {
+    "name": "VideoMessagesCameraRear",
+    "value": "الخلفية"
+  },
+  {
+    "name": "VideoMessagesCameraFront",
+    "value": "الأمامية"
+  },
+  {
+    "name": "VideoMessagesCameraAsk",
+    "value": "اطلب"
+  },
+  {
+    "name": "RearCamera",
+    "value": "الكاميرا الخلفية"
+  },
+  {
+    "name": "FrontCamera",
+    "value": "الكاميرا الأمامية"
+  },
+  {
+    "name": "AlwaysSendInHD",
+    "value": "أرسل دائما بدقة عالية"
+  },
+  {
+    "name": "HideCameraTile",
+    "value": "إخفاء شريط الكاميرا الفوري"
+  },
+  {
+    "name": "ShortStandardQuality",
+    "value": "الذاكرة"
+  },
+  {
+    "name": "DoubleTapSeekDuration",
+    "value": "مدة البحث بالضغط المزدوج"
+  },
+  {
+    "name": "PauseOnMinimize",
+    "value": "إيقاف مؤقت تلقائي"
+  },
+  {
+    "name": "UnmuteWithVolumeButtons",
+    "value": "\\\".\\\""
+  },
+  {
+    "name": "UnmuteWithVolumeButtonsInfo",
+    "value": "\\\".\\\"."
+  },
+  {
+    "name": "ImportTitle",
+    "value": "qoz1z12psk@gmail.com"
+  },
+  {
+    "name": "ExportData",
+    "value": "تصدير البيانات"
+  },
+  {
+    "name": "ExportDelay",
+    "value": "لأسباب أمنية، ستتمكن من بدء تنزيل بياناتك خلال %1$s. لقد أبلغنا جميع أجهزتك بطلب التصدير للتأكد من أنه مصرح به ومنحك وقتاً للرد إذا لم يكن كذلك.\\n\\nيرجى العودة في %2$s وتكرار الطلب باستخدام نفس الجهاز."
+  },
+  {
+    "name": "ExportDelayLessThanHour",
+    "value": "أقل من ساعة"
+  },
+  {
+    "name": "ExportInvalid",
+    "value": "عذراً، لقد بدأت تصدير بيانات جديد، لذلك تم إلغاء تصدير البيانات هذا."
+  },
+  {
+    "name": "DeleteAccount",
+    "value": "حذف الحساب"
+  },
+  {
+    "name": "ResetSettings",
+    "value": "إعادة تعيين الإعدادات"
+  },
+  {
+    "name": "GetBadgeInfo",
+    "value": "**Support Development** and get an exclusive badge!"
+  },
+  {
+    "name": "NowPlaying",
+    "value": "اللعب الآن"
+  },
+  {
+    "name": "ScrobblingService",
+    "value": "خدمة التمرير"
+  },
+  {
+    "name": "SelectService",
+    "value": "اختر الخدمة"
+  },
+  {
+    "name": "SelectServiceInfo",
+    "value": "يعرض المسار الحالي في المِلَفّ الشخصي كبطاقة تم الحصول عليها من خدمة التمرير."
+  },
+  {
+    "name": "EnterUsername",
+    "value": "أدخل اسم المستخدم"
+  },
+  {
+    "name": "EnterUsernameInfo",
+    "value": "يمكنك الحصول على اسم المستخدم الخاص بك على **الموقع الرسمي**."
+  },
+  {
+    "name": "BoostyPeopleCount_one",
+    "value": "%1$d شخص"
+  },
+  {
+    "name": "BoostyPeopleCount_two",
+    "value": "%1$d شخص"
+  },
+  {
+    "name": "BoostyPeopleCount_few",
+    "value": "%1$d أشخاص"
+  },
+  {
+    "name": "BoostyPeopleCount_many",
+    "value": "%1$d شخص"
+  },
+  {
+    "name": "BoostyPeopleCount_other",
+    "value": "%1$d شخص"
+  },
+  {
+    "name": "BoostyInfo",
+    "value": "ادعم **exteraGram** بنشاط على **Boosty**."
+  },
+  {
+    "name": "BoostyInfo2",
+    "value": "شكراً لدعمك!"
+  },
+  {
+    "name": "PluginsNotSupported",
+    "value": "تثبيت الإضافات متاح فقط في النسخة **الكاملة** من **exteraGram**."
+  },
+  {
+    "name": "PluginsEngine",
+    "value": "محرك الإضافات"
+  },
+  {
+    "name": "EnablePluginsEngine",
+    "value": "تمكين محرك الإضافات"
+  },
+  {
+    "name": "PluginInstalledButFailedToEnable",
+    "value": "**%1$s** مثبت ، ولكن حدث خطأ أثناء التمكين."
+  },
+  {
+    "name": "PluginDisableError",
+    "value": "فشل في تعطيل **%1$s**."
+  },
+  {
+    "name": "PluginSourceTrustedInfo",
+    "value": "الإضافات من هذا المصدر هي * * التحقق * * وآمنة للاستخدام."
+  },
+  {
+    "name": "PluginSourceUnknownInfo",
+    "value": "المكونات الإضافية من هذا المصدر * * لم يتم التحقق منها * * وقد تشكل خطرا أمنيا."
+  },
+  {
+    "name": "PluginIsNotResponding",
+    "value": "الإضافة لا تستجيب."
+  },
+  {
+    "name": "PluginIsNotRespondingAlert",
+    "value": "%1$s لا تستجيب"
+  },
+  {
+    "name": "PluginsSafeMode",
+    "value": "الوضع الآمن"
+  },
+  {
+    "name": "PluginsSafeModeShortcut",
+    "value": "بدء التشغيل في الوضع الآمن"
+  },
+  {
+    "name": "PluginsSafeModeInfo",
+    "value": "تم تعطيل محرك المكون الإضافي بسبب حدوث عطل. قد يؤدي تعطيل الوضع الآمن إلى عواقب غير متوقعة."
+  },
+  {
+    "name": "PluginsSafeModeInfo2",
+    "value": "في الوضع الآمن ، تكون جميع المكونات الإضافية غير نشطة. يتيح لك ذلك العثور على مكون إضافي إشكالي وتعطيله بأمان."
+  },
+  {
+    "name": "PluginsDevMode",
+    "value": "وضع المطور"
+  },
+  {
+    "name": "PluginsCompactView",
+    "value": "الإضافات عرض مضغوط"
+  },
+  {
+    "name": "PluginsDocumentation",
+    "value": "الوثائق"
+  },
+  {
+    "name": "PluginsTrusted",
+    "value": "الإضافات الموثوقة"
+  },
+  {
+    "name": "PluginsDevServerLaunched",
+    "value": "بدأ خادم المطور."
+  },
+  {
+    "name": "PluginsDevServerStopped",
+    "value": "تم إيقاف خادم المطور."
+  },
+  {
+    "name": "PluginNotFound",
+    "value": "**%1$s** غير موجود."
+  },
+  {
+    "name": "PluginHasNoSettings",
+    "value": "**%1$s** ليس لديه إعدادات."
+  },
+  {
+    "name": "PluginsPySdkAutoUpdate",
+    "value": "تحديث تلقائي"
+  },
+  {
+    "name": "PluginsPySdkEnableBetaVersion",
+    "value": "تثبيت الإصدارات التجريبية"
+  },
+  {
+    "name": "PluginsPySdkCheckUpdates",
+    "value": "التحقق من التحديثات"
+  },
+  {
+    "name": "CheckingForUpdates",
+    "value": "جاري التحقق من التحديثات…"
+  },
+  {
+    "name": "LatestVersionInstalled",
+    "value": "آخر إصدار مثبت"
+  },
+  {
+    "name": "RestartPluginSystemToApplyUpdate",
+    "value": "تم تحميل التحديث، أعد تشغيل محرك الإضافات لتطبيقه"
+  },
+  {
+    "name": "LoadingUpdate",
+    "value": "جاري تحميل التحديث…"
+  },
+  {
+    "name": "RestoreSdkFromApk",
+    "value": "استعادة SDK من APK"
+  },
+  {
+    "name": "EnableAutoUpdate",
+    "value": "تفعيل التحديث التلقائي"
+  },
+  {
+    "name": "PluginsDisableArt",
+    "value": "وضع التوافق"
+  },
+  {
+    "name": "PluginsDisableArtInfo",
+    "value": "يمنع فشل خطافات الإضافات عن طريق تعطيل أداة حفظ ملفات تعريف ART."
+  },
+  {
+    "name": "UpdateAvailable",
+    "value": "يتوفر تحديث!"
+  },
+  {
+    "name": "Details",
+    "value": "التفاصيل"
+  },
+  {
+    "name": "Date",
+    "value": "التاريخ"
+  },
+  {
+    "name": "EditedDate",
+    "value": "تعديل التاريخ"
+  },
+  {
+    "name": "ForwardedDate",
+    "value": "تاريخ إعادة التوجيه"
+  },
+  {
+    "name": "FileSize",
+    "value": "حجم الملف"
+  },
+  {
+    "name": "FileName",
+    "value": "اسم الملف"
+  },
+  {
+    "name": "FilePath",
+    "value": "مسار الملف"
+  },
+  {
+    "name": "Platform",
+    "value": "المنصة"
+  },
+  {
+    "name": "Resolution",
+    "value": "الدقة"
+  },
+  {
+    "name": "Bitrate",
+    "value": "معدل البت"
+  },
+  {
+    "name": "MimeType",
+    "value": "نوع الـMime"
+  },
+  {
+    "name": "Datacenter",
+    "value": "قاعدة البيانات"
+  },
+  {
+    "name": "DateFormatOption",
+    "value": "التنسيق:"
+  },
+  {
+    "name": "DateFormatOptionNone",
+    "value": "لا شيء"
+  },
+  {
+    "name": "DateFormatOptionRelative",
+    "value": "نسبي"
+  },
+  {
+    "name": "DateFormatOptionShortTime",
+    "value": "وقت قصير"
+  },
+  {
+    "name": "DateFormatOptionLongTime",
+    "value": "وقت طويل"
+  },
+  {
+    "name": "DateFormatOptionShortDate",
+    "value": "تاريخ قصير"
+  },
+  {
+    "name": "DateFormatOptionLongDate",
+    "value": "تاريخ طويل"
+  },
+  {
+    "name": "DateFormatOptionDayOfWeek",
+    "value": "يوم الأسبوع"
+  },
+  {
+    "name": "LoginQrTitle",
+    "value": "تسجيل الدخول برمز QR"
+  },
+  {
+    "name": "LoginQrSubtitle",
+    "value": "استخدم جهازاً آخر لمسح رمز QR هذا."
+  },
+  {
+    "name": "WifiSuccess",
+    "value": "تم التوصيل بشبكة الواي-فاي بنجاح."
+  },
+  {
+    "name": "SetAsBadge",
+    "value": "تعيين كشارة"
+  },
+  {
+    "name": "TrackSaved",
+    "value": "تم حفظ الموسيقى في **%1$s**."
+  },
+  {
+    "name": "ChannelToSaveChanged",
+    "value": "سيتم حفظ الأصوات في **%1$s**."
+  },
+  {
+    "name": "DeletedMessage",
+    "value": "رسالة محذوفة"
+  },
+  {
+    "name": "SetAsBadgeStatusInfo",
+    "value": "تم تعيين حالة الشارة."
+  },
+  {
+    "name": "UserNotFound",
+    "value": "لم يتم العثور على مستخدم مع هذا **المعرف**."
+  },
+  {
+    "name": "ChatNotFound",
+    "value": "لم يتم العثور على محادثة بهذا **المعرف**."
+  },
+  {
+    "name": "PhotoCopied",
+    "value": "تم نسخ الصورة إلى الحافظة."
+  },
+  {
+    "name": "TapToCopy",
+    "value": "اضغط للنسخ"
+  },
+  {
+    "name": "ProfileUsesEmojiPack",
+    "value": "يستخدم هذا الملف الشخصي إيموجي من حزمة %s لخلفيته."
+  },
+  {
+    "name": "GifGallerySavedHint",
+    "value": "تم حفظ GIF في المعرض."
+  },
+  {
+    "name": "LocalPremiumEmojiHint",
+    "value": "ليس لديك اشتراك** برقية بريميوم * *، لذلك فقط * * سنتيغرام."
+  },
+  {
+    "name": "HideContactsTab",
+    "value": "إخفاء علامة تبويب جهات الاتصال"
+  },
+  {
+    "name": "ShowContactsTab",
+    "value": "إظهار علامة تبويب جهات الاتصال"
+  },
+  {
+    "name": "ContactsTabWasShownTitle",
+    "value": "علامة تبويب **جهات الاتصال** مرئية الآن."
+  },
+  {
+    "name": "ContactsTabWasHiddenTitle",
+    "value": "علامة تبويب **جهات الاتصال** مخفية الآن."
+  },
+  {
+    "name": "PasskeyInfo2",
+    "value": "تعمل هذه الميزة فقط مع مديري كلمات المرور التي تسمح للمستخدم بإدارة إعدادات الثقة للتطبيقات المميزة، مثل **Bitwarden** أو **KeePassDX**."
+  },
+  {
+    "name": "PasskeyUnsupportedTitle",
+    "value": "مدير كلمات مرور غير مدعوم"
+  },
+  {
+    "name": "PasskeyUnsupportedMessage",
+    "value": "جرب مديري كلمات مرور آخرين مثل **Bitwarden** أو **KeePassDX**."
+  },
+  {
+    "name": "GroupMemberJoined",
+    "value": "انضم %1$s"
+  },
+  {
+    "name": "ToBeginning",
+    "value": "إلى البداية"
+  },
+  {
+    "name": "MessageHistory",
+    "value": "السجل"
+  },
+  {
+    "name": "BoldItalic",
+    "value": "عريض مائل"
+  },
+  {
+    "name": "CopyPhoto",
+    "value": "نسخ الصورة"
+  },
+  {
+    "name": "Repeat",
+    "value": "تكرار"
+  },
+  {
+    "name": "Subtitles",
+    "value": "الترجمات"
+  },
+  {
+    "name": "ChooseSubtitles",
+    "value": "اختر الترجمات"
+  },
+  {
+    "name": "DisableSubtitles",
+    "value": "تعطيل الترجمات"
+  },
+  {
+    "name": "SubtitlesAdded",
+    "value": "تم تفعيل الترجمات."
+  },
+  {
+    "name": "SubtitlesRemoved",
+    "value": "تم تعطيل الترجمات."
+  },
+  {
+    "name": "SubtitlesLoadError",
+    "value": "تعذر تحميل الترجمات."
+  },
+  {
+    "name": "SubtitlesUnsupportedFormat",
+    "value": "تنسيق ترجمات غير مدعوم."
+  },
+  {
+    "name": "StickerCornerRadius",
+    "value": "زوايا الملصق"
+  },
+  {
+    "name": "StickerCornerRadiusInfo",
+    "value": "اختر مدى استدارة زوايا الملصق."
+  },
+  {
+    "name": "StickerCornerRadiusLarge",
+    "value": "كبير"
+  },
+  {
+    "name": "StickerCornerRadiusMedium",
+    "value": "متوسط"
+  },
+  {
+    "name": "StickerCornerRadiusSmall",
+    "value": "صغير"
+  },
+  {
+    "name": "StickerCornerRadiusNone",
+    "value": "لا شيء"
+  },
+  {
+    "name": "Feed",
+    "value": "الخلاصة"
+  },
+  {
+    "name": "FeedShownChannels",
+    "value": "ظاهرة في الخلاصة"
+  },
+  {
+    "name": "FeedHiddenChannels",
+    "value": "مخفي"
+  },
+  {
+    "name": "FeedChannels",
+    "value": "القنوات"
+  },
+  {
+    "name": "FeedChannelsInfo",
+    "value": "قم بإلغاء تحديد قناة لإخفاء منشوراتها من الخلاصة. تظهر القنوات الجديدة تلقائياً."
+  },
+  {
+    "name": "FeedSettings",
+    "value": "إعدادات الخلاصة"
+  },
+  {
+    "name": "FeedNoPosts",
+    "value": "لا توجد منشورات قناة حتى الآن."
+  },
+  {
+    "name": "FeedAllChannelsExcluded",
+    "value": "جميع القنوات مستبعدة من الخلاصة."
+  },
+  {
+    "name": "FeedMarkAllRead",
+    "value": "تعيين الكل كمقروء"
+  },
+  {
+    "name": "FeedMarkAllReadConfirm",
+    "value": "تعيين جميع المنشورات في قنوات الخلاصة كمقروءة؟ سيؤدي هذا أيضاً إلى تعيينها كمقروءة في القنوات الأصلية."
+  },
+  {
+    "name": "FeedMarkAllReadDone",
+    "value": "تم تعيين جميع المنشورات كمقروءة"
+  },
+  {
+    "name": "FeedIncludeArchived",
+    "value": "إظهار المحادثات من الأرشيف"
+  },
+  {
+    "name": "FeedIncludeArchivedInfo",
+    "value": "قم أيضاً بتضمين القنوات من محادثاتك المؤرشفة في الخلاصة."
+  },
+  {
+    "name": "FeedHideChannel",
+    "value": "إخفاء من الخلاصة"
+  },
+  {
+    "name": "FeedChannelHidden",
+    "value": "**%1$s** مخفية من الخلاصة"
+  },
+  {
+    "name": "FeedBottomTab",
+    "value": "إظهار في علامات التبويب السفلية"
+  },
+  {
+    "name": "FeedBottomTabInfo",
+    "value": "إظهار الخلاصة كعلامة تبويب تنقل سفلية بدلاً من علامة تبويب جهات الاتصال."
+  },
+  {
+    "name": "FeedUnreadCounter",
+    "value": "عداد المنشورات غير المقروءة"
+  },
+  {
+    "name": "HideFeedTab",
+    "value": "إخفاء علامة تبويب الخلاصة"
+  },
+  {
+    "name": "DisableMarkdown",
+    "value": "تعطيل Markdown"
+  },
+  {
+    "name": "EnableMarkdown",
+    "value": "تفعيل Markdown"
+  }
+]

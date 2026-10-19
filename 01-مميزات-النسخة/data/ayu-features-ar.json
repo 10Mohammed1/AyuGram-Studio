@@ -1,0 +1,1794 @@
+[
+  {
+    "name": "AyuPreferences",
+    "value": "تفضيلات أيوجرام"
+  },
+  {
+    "name": "DocsText",
+    "value": "تَوْثِيقْ"
+  },
+  {
+    "name": "CategoryGeneral",
+    "value": "عام"
+  },
+  {
+    "name": "CategoryAppearance",
+    "value": "المظهر"
+  },
+  {
+    "name": "CategoryChats",
+    "value": "المحادثات"
+  },
+  {
+    "name": "CategoryOther",
+    "value": "الاُخْرَى"
+  },
+  {
+    "name": "CategoryGhostMode",
+    "value": "وضع الشبح"
+  },
+  {
+    "name": "CategorySpy",
+    "value": "التجسس"
+  },
+  {
+    "name": "CategoryFilters",
+    "value": "تصنيف"
+  },
+  {
+    "name": "CategoryCustomization",
+    "value": "تخصيص"
+  },
+  {
+    "name": "GhostEssentialsHeader",
+    "value": "وضع الشبح"
+  },
+  {
+    "name": "DontReadMessages",
+    "value": "إخفاء قراءة الرسائل"
+  },
+  {
+    "name": "DontReadStories",
+    "value": "إخفاء مشاهدة القصص"
+  },
+  {
+    "name": "DontSendOnlinePackets",
+    "value": "إخفاء أنك متصل"
+  },
+  {
+    "name": "DontSendUploadProgress",
+    "value": "إخفاء \"جاري الكتابة...\""
+  },
+  {
+    "name": "SendOfflinePacketAfterOnline",
+    "value": "اذهب دون اتصال تلقائي"
+  },
+  {
+    "name": "GhostModeOptionLongTapDescription",
+    "value": "اضغط مطولًا على أي خِيار لمنع تغيّره عند تفعيل أو إلغاء تفعيل وضع الشبح."
+  },
+  {
+    "name": "GhostModeOptionShiftDescription",
+    "value": "انقر مع SHIFT على أي خيار لمنعه من التغيير عند تبديل وضع الشبح."
+  },
+  {
+    "name": "MarkReadAfterAction",
+    "value": "القراءة عند التفاعل"
+  },
+  {
+    "name": "MarkReadAfterActionDescription",
+    "value": "يُعلِّم الرسالة كمقروءة تلقائيًا عند إرسال رسالة جديدة أو عند النقر على تفاعل."
+  },
+  {
+    "name": "MarkReadAfterSend",
+    "value": "إرسال"
+  },
+  {
+    "name": "MarkReadAfterReaction",
+    "value": "تفاعل"
+  },
+  {
+    "name": "MarkReadAfterPoll",
+    "value": "إستفتاء"
+  },
+  {
+    "name": "UseScheduledMessages",
+    "value": "الرسائل المجدولة"
+  },
+  {
+    "name": "UseScheduledMessagesDescription",
+    "value": "يجدول الرسائل تلقائيًا ليتم إرسالها بعد نحو 12 ثانية (مدة أطول للوسائط). عند استخدام هذه المَيزة، لن تظهر متصلًا.\nتجنّب استخدامها على الشبكات غير المستقرة."
+  },
+  {
+    "name": "SendWithoutSoundByDefault",
+    "value": "إرسال بدون صوت"
+  },
+  {
+    "name": "SendWithoutSoundByDefaultNever",
+    "value": "أبدًا"
+  },
+  {
+    "name": "SendWithoutSoundByDefaultInGhostMode",
+    "value": "عند أستعمال وضع الشبح"
+  },
+  {
+    "name": "SendWithoutSoundByDefaultAlways",
+    "value": "دائما"
+  },
+  {
+    "name": "SendWithoutSoundByDefaultDescription",
+    "value": "إرسال الرسائل دون صوت بشكل أفتراضي."
+  },
+  {
+    "name": "SuggestGhostModeBeforeViewingStory",
+    "value": "تنبيه وضع الشبح للقصة"
+  },
+  {
+    "name": "SuggestGhostModeBeforeViewingStoryDescription",
+    "value": "يعرض تنبيهًا قبل فتح القصة، يقترح عليك تفعيل وضع الشبح."
+  },
+  {
+    "name": "SpyEssentialsHeader",
+    "value": "الرسائل المعدلة والمحذوفة"
+  },
+  {
+    "name": "SaveDeletedMessages",
+    "value": "الاحتفاظ بالرسائل المحذوفة"
+  },
+  {
+    "name": "SaveMessagesHistory",
+    "value": "الاحتفاظ بسجل التعديلات"
+  },
+  {
+    "name": "MessageSavingSaveMedia",
+    "value": "حفظ المرفقات"
+  },
+  {
+    "name": "MessageSavingSaveMediaHint",
+    "value": "تهيئة المحادثات والحدود"
+  },
+  {
+    "name": "MessageSavingSaveMediaInPrivateChats",
+    "value": "المحادثات الخاصة"
+  },
+  {
+    "name": "MessageSavingSaveMediaInPublicChannels",
+    "value": "القنوات العامة"
+  },
+  {
+    "name": "MessageSavingSaveMediaInPrivateChannels",
+    "value": "القنوات الخاصة"
+  },
+  {
+    "name": "MessageSavingSaveMediaInPublicGroups",
+    "value": "المجموعات العامة"
+  },
+  {
+    "name": "MessageSavingSaveMediaInPrivateGroups",
+    "value": "المجموعات الخاصة"
+  },
+  {
+    "name": "MessageSavingSaveMediaHintPopup",
+    "value": "تأكّد من ضبطه بما يناسب احتياجاتك."
+  },
+  {
+    "name": "AttachmentsFolderMaxSizeHeader",
+    "value": "الحد الأقصى لحجم المجلد"
+  },
+  {
+    "name": "AttachmentsFolderMaxSizeDescription",
+    "value": "The oldest attachments are removed when the limit is reached."
+  },
+  {
+    "name": "AttachmentsFolderNoLimitDescription",
+    "value": "Attachments are never removed automatically."
+  },
+  {
+    "name": "AttachmentsFolderUsage",
+    "value": "%1$s of %2$s used."
+  },
+  {
+    "name": "AttachmentsFolderUsageNoLimit",
+    "value": "%1$s used."
+  },
+  {
+    "name": "MaximumMediaSizeCellular",
+    "value": "الحد الأقصى لحجم الوسائط (عند استعمال البيانات)"
+  },
+  {
+    "name": "MaximumMediaSizeWiFi",
+    "value": "الحد الأقصى لحجم الوسائط (عند استخدام الواي فاي)"
+  },
+  {
+    "name": "MessageSavingOtherHeader",
+    "value": "الاُخْرَى"
+  },
+  {
+    "name": "MessageSavingSaveForBots",
+    "value": "الاحتفاظ بمربعات الحوارات من البوت"
+  },
+  {
+    "name": "SaveExclusions",
+    "value": "Manage Exclusions"
+  },
+  {
+    "name": "SaveExclusionsTopInfo",
+    "value": "Choose the chats where deleted messages and edit history are kept."
+  },
+  {
+    "name": "SaveExclusionsModeHeader",
+    "value": "Saving mode"
+  },
+  {
+    "name": "SaveExclusionsOnlySelected",
+    "value": "Only Selected Chats"
+  },
+  {
+    "name": "SaveExclusionsAllChatsInfo",
+    "value": "Deleted messages and edit history are saved everywhere, except in the chats you exclude below."
+  },
+  {
+    "name": "SaveExclusionsSelectedChatsInfo",
+    "value": "Deleted messages and edit history are saved only in the chats below."
+  },
+  {
+    "name": "SaveExclusionsNothingSaved",
+    "value": "**Nothing is saved until you add at least one.**"
+  },
+  {
+    "name": "SaveExclusionsNeverSave",
+    "value": "Never Save In"
+  },
+  {
+    "name": "SaveExclusionsAlwaysSave",
+    "value": "Always Save In"
+  },
+  {
+    "name": "SaveExclusionsInfo",
+    "value": "Add individual chats or entire chat types."
+  },
+  {
+    "name": "SaveExclusionsDiscardAlert",
+    "value": "You have changed the list of chats. Apply changes?"
+  },
+  {
+    "name": "SaveExclusionsBotDialogs",
+    "value": "Bot Dialogs"
+  },
+  {
+    "name": "SaveExclusionsBotsInGroups",
+    "value": "Bots in Groups"
+  },
+  {
+    "name": "SaveExclusionsSecretChats",
+    "value": "Secret Chats"
+  },
+  {
+    "name": "SaveExclusionsHeader",
+    "value": "Exclusions"
+  },
+  {
+    "name": "MessageSavingSavePath",
+    "value": "مجلد المرفقات"
+  },
+  {
+    "name": "MessageSavingSavePathTitle",
+    "value": "اختر مجلد"
+  },
+  {
+    "name": "SpySaveReadMarks",
+    "value": "حفظ تاريخ القراءة"
+  },
+  {
+    "name": "SpySaveReadMarksDescription",
+    "value": "يحفظ محليًا بيانات حول قراءة الرسائل. سيُعرض ذلك إذا لم يوفّر تيليجرام تاريخ القراءة."
+  },
+  {
+    "name": "SpySaveLocalOnline",
+    "value": "حفظ تاريخ آخر ظهور"
+  },
+  {
+    "name": "SpySaveLocalOnlineDescription",
+    "value": "يحفظ تاريخ آخر ظهور للمستخدمين الذين يخفون حالة الإتصال اعتمادًا على نشاطهم. ستتمكّن من معرفة وقت آخر اتصالهم بشكل تقريبي جدًا."
+  },
+  {
+    "name": "ExportDatabaseButton",
+    "value": "تصدير بياناتك الحالية"
+  },
+  {
+    "name": "ImportDatabaseButton",
+    "value": "أستيراد بيانات محفوظة"
+  },
+  {
+    "name": "QoLTogglesHeader",
+    "value": "ميزات مفيدة"
+  },
+  {
+    "name": "KeepAliveService",
+    "value": "خدمة دفع ايوجرام"
+  },
+  {
+    "name": "KeepAliveServiceNote",
+    "value": "نوصي بالانتقال إلى إصدار FCM ‏(Firebase Cloud Messaging).\n*نظام إشعارات من Google يرسل التنبيهات للتطبيق حتى وهو مغلق."
+  },
+  {
+    "name": "DisableAds",
+    "value": "الغاء الاعلانات"
+  },
+  {
+    "name": "DisableStories",
+    "value": "تعطيل القصص"
+  },
+  {
+    "name": "DisableOpenLinkWarning",
+    "value": "تعطيل التحذير عند فتح الروابط"
+  },
+  {
+    "name": "DisableCustomBackgrounds",
+    "value": "تعطيل الخلفيات المخصصة"
+  },
+  {
+    "name": "HidePremiumStatuses",
+    "value": "Hide Premium Statuses"
+  },
+  {
+    "name": "SmoothScroll",
+    "value": "تمرير سلس"
+  },
+  {
+    "name": "DisableNotificationsDelay",
+    "value": "تعطيل تأخير الإشعارات"
+  },
+  {
+    "name": "LocalPremium",
+    "value": "تفعيل الإصدار المدفوع من تيليجرام (بعض المميزات)"
+  },
+  {
+    "name": "DisplayGhostStatus",
+    "value": "عرض حالة وضع الشبح"
+  },
+  {
+    "name": "DisplayGhostStatusDescription",
+    "value": "Ghost Mode status will be visible in the chat list title."
+  },
+  {
+    "name": "CopyUsernameAsLink",
+    "value": "نسخ الاسم المستخدم كرابط"
+  },
+  {
+    "name": "HideChannelReactions",
+    "value": "إخفاء التفاعلات في القنوات"
+  },
+  {
+    "name": "HideGroupReactions",
+    "value": "إخفاء التفاعلات في المجموعات"
+  },
+  {
+    "name": "QuickAdminShortcuts",
+    "value": "أختصارات المشرف السريعة"
+  },
+  {
+    "name": "LinksHeader",
+    "value": "الروابط"
+  },
+  {
+    "name": "LinksChannel",
+    "value": "قناة"
+  },
+  {
+    "name": "LinksChats",
+    "value": "المحادثات"
+  },
+  {
+    "name": "LinksTranslate",
+    "value": "ترجمة"
+  },
+  {
+    "name": "LinksDocumentation",
+    "value": "المستندات"
+  },
+  {
+    "name": "CategoriesHeader",
+    "value": "الفئات"
+  },
+  {
+    "name": "SupportHeader",
+    "value": "دعم"
+  },
+  {
+    "name": "SupportDescription1",
+    "value": "دعم التطوير"
+  },
+  {
+    "name": "SupportDescription2",
+    "value": "{item} و أحصل على شارة فريدة!"
+  },
+  {
+    "name": "CrashReporting",
+    "value": "الإبلاغ عن الأعطال"
+  },
+  {
+    "name": "CrashReportingDescription",
+    "value": "عند تفعيل هذا الخِيار، سيُطلب منك إرسال تقرير بعد تعرّض التطبيق لعطل. يمكنك اختيار إرسال التقرير أو عدم إرساله."
+  },
+  {
+    "name": "DisableColorfulCover",
+    "value": "إيقاف اللون التكيّفي"
+  },
+  {
+    "name": "EnableColorfulCover",
+    "value": "تفعيل اللون التكيّفي"
+  },
+  {
+    "name": "CustomizationHeader",
+    "value": "التخصيص"
+  },
+  {
+    "name": "DeletedMarkText",
+    "value": "الأيقونة الدالة على حذف الرسالة"
+  },
+  {
+    "name": "DeletedMarkNothing",
+    "value": "لا شيء"
+  },
+  {
+    "name": "DeletedMarkTrashBin",
+    "value": "سلة المهملات"
+  },
+  {
+    "name": "DeletedMarkCross",
+    "value": "تجاوز"
+  },
+  {
+    "name": "DeletedMarkEyeCrossed",
+    "value": "تجاوز المشاهدة"
+  },
+  {
+    "name": "EditedMarkText",
+    "value": "الأيقونة الدالة على تعديل الرسالة"
+  },
+  {
+    "name": "ReplaceMarksWithIcons",
+    "value": "استبدال بالأيقونات"
+  },
+  {
+    "name": "SemiTransparentDeletedMessages",
+    "value": "الرسائل المحذوفة شفافة"
+  },
+  {
+    "name": "HideNotificationCounters",
+    "value": "إخفاء عداد الإشعارات"
+  },
+  {
+    "name": "HideNotificationBadge",
+    "value": "إخفاء شارة الإشعارات"
+  },
+  {
+    "name": "HideNotificationBadgeDescription",
+    "value": "يُخفي عدّاد الإشعارات على أيقونة التطبيق في شريط المهام ومنطقة الإشعارات."
+  },
+  {
+    "name": "ChannelBottomButton",
+    "value": "زر القناة السفلي"
+  },
+  {
+    "name": "ChannelBottomButtonHide",
+    "value": "إخفاء"
+  },
+  {
+    "name": "ChannelBottomButtonMute",
+    "value": "كتم"
+  },
+  {
+    "name": "ChannelBottomButtonDiscuss",
+    "value": "مناقشة"
+  },
+  {
+    "name": "SettingsShowID",
+    "value": "إظهار معرف ID الطرف الآخر"
+  },
+  {
+    "name": "SettingsShowID_Hide",
+    "value": "الإخفاء"
+  },
+  {
+    "name": "SettingsShowMessageShot",
+    "value": "عرض رسالة"
+  },
+  {
+    "name": "SettingsShowMessageShotDescription",
+    "value": "يسمح بالتقاط لقطة شاشة للرسائل المحددة."
+  },
+  {
+    "name": "SettingsUnlimitedRecentStickers",
+    "value": "Unlimited Recent Stickers"
+  },
+  {
+    "name": "SettingsCustomizationHint",
+    "value": "يجب إعادة تشغيل التطبيق بعد إجراء تغييرات في قسم «التخصيص»."
+  },
+  {
+    "name": "MaterialSwitches",
+    "value": "نمط مفتاح MD3 (تصميم Google للواجهات)"
+  },
+  {
+    "name": "ChatFoldersHeader",
+    "value": "مجلدات الدردشة"
+  },
+  {
+    "name": "SettingsContextMenuTitle",
+    "value": "اختر متى تريد إظهار العنصر"
+  },
+  {
+    "name": "SettingsContextMenuDescription",
+    "value": "سيتم عرض عناصر القائمة الموسعة إذا قمت بالضغط على CTRL أو SHIFT أثناء النقر الأيمن على الرسالة."
+  },
+  {
+    "name": "SettingsContextMenuItemHidden",
+    "value": "مخفي"
+  },
+  {
+    "name": "SettingsContextMenuItemShown",
+    "value": "ظاهر"
+  },
+  {
+    "name": "SettingsContextMenuItemExtended",
+    "value": "القائمة الموسعة"
+  },
+  {
+    "name": "SettingsContextMenuReactionsPanel",
+    "value": "لوحة التفاعلات"
+  },
+  {
+    "name": "SettingsContextMenuViewsPanel",
+    "value": "لوحة المشاهدات"
+  },
+  {
+    "name": "ContextMenuElementsHeader",
+    "value": "عناصر قائمة السياق"
+  },
+  {
+    "name": "MessageFieldElementsHeader",
+    "value": "عناصر حقل الرسالة"
+  },
+  {
+    "name": "MessageFieldPopupsHeader",
+    "value": "رسائل الحقول المنبثقة"
+  },
+  {
+    "name": "MessageFieldElementAttach",
+    "value": "إرفاق"
+  },
+  {
+    "name": "MessageFieldElementCommands",
+    "value": "أوامر"
+  },
+  {
+    "name": "MessageFieldElementTTL",
+    "value": "TTL"
+  },
+  {
+    "name": "MessageFieldElementEmoji",
+    "value": "وجه تعبيري"
+  },
+  {
+    "name": "MessageFieldElementVoice",
+    "value": "صوت"
+  },
+  {
+    "name": "DrawerElementsHeader",
+    "value": "عناصر القائمة"
+  },
+  {
+    "name": "TrayElementsHeader",
+    "value": "عناصر القائمة"
+  },
+  {
+    "name": "MessageBubbleRadius",
+    "value": "استدارة زوايا الرسائل"
+  },
+  {
+    "name": "SettingsWideMultiplier",
+    "value": "مضاعِف عرض الرسائل"
+  },
+  {
+    "name": "SettingsWideMultiplierDescription",
+    "value": "يمكنك تغيير عرض الرسائل لتحسين عرضها على الشاشات العريضة."
+  },
+  {
+    "name": "SettingsSpoofWebviewAsAndroid",
+    "value": "تقميص العميل علي انه أندرويد"
+  },
+  {
+    "name": "SettingsBiggerWindow",
+    "value": "نافذة اكبر"
+  },
+  {
+    "name": "SettingsIncreaseWebviewHeight",
+    "value": "زيادة ارتفاع المحتوي"
+  },
+  {
+    "name": "SettingsIncreaseWebviewWidth",
+    "value": "زيادة عرض المحتوي"
+  },
+  {
+    "name": "ExportDataTitle",
+    "value": "تصدير قاعدة بيانات AyuGram ؟"
+  },
+  {
+    "name": "ExportDataDescription",
+    "value": "Pick a compatibility version, then choose where to save the exported database."
+  },
+  {
+    "name": "ExportDataConfirm",
+    "value": "Choose location"
+  },
+  {
+    "name": "ExportDataCancel",
+    "value": "لا، إغلاق النافذة"
+  },
+  {
+    "name": "ExportDataSuccess",
+    "value": "تم تصدير قاعدة البيانات بنجاح."
+  },
+  {
+    "name": "ExportDataFailure",
+    "value": "فشل تصدير قاعدة البيانات."
+  },
+  {
+    "name": "ExportDataCompatHeader",
+    "value": "Compatibility version"
+  },
+  {
+    "name": "ImportDataNotFound",
+    "value": "لا توجد قاعدة بيانات للاستيراد."
+  },
+  {
+    "name": "ImportDataTitle",
+    "value": "استيراد قاعدة بيانات AyuGram ؟"
+  },
+  {
+    "name": "ImportDataDescription",
+    "value": "Choose how to import, then pick a database file."
+  },
+  {
+    "name": "ImportDataConfirm",
+    "value": "Choose file"
+  },
+  {
+    "name": "ImportDataCancel",
+    "value": "لا، إغلاق النافذة"
+  },
+  {
+    "name": "ImportDataSuccess",
+    "value": "تم تصدير قاعدة البيانات بنجاح."
+  },
+  {
+    "name": "ImportDataFailure",
+    "value": "فشل استيراد قواعد البيانات."
+  },
+  {
+    "name": "ImportModeReplace",
+    "value": "Replace existing"
+  },
+  {
+    "name": "ImportModeMerge",
+    "value": "Merge messages"
+  },
+  {
+    "name": "ImportMergeProgress",
+    "value": "Merging messages..."
+  },
+  {
+    "name": "ImportMergeSuccess",
+    "value": "Imported %1$d messages."
+  },
+  {
+    "name": "RegexFilters",
+    "value": "مصنف الرسائل"
+  },
+  {
+    "name": "RegexFiltersAmount_zero",
+    "value": "%1$d تصفية"
+  },
+  {
+    "name": "RegexFiltersAmount_one",
+    "value": "%1$d فلتر"
+  },
+  {
+    "name": "RegexFiltersAmount_two",
+    "value": "%1$d تصفية"
+  },
+  {
+    "name": "RegexFiltersAmount_few",
+    "value": "%1$d تصفية"
+  },
+  {
+    "name": "RegexFiltersAmount_many",
+    "value": "%1$d تصفية"
+  },
+  {
+    "name": "RegexFiltersAmount_other",
+    "value": "%1$d تصفية"
+  },
+  {
+    "name": "RegexFiltersExcludedAmount_zero",
+    "value": "%1$d مستبعد"
+  },
+  {
+    "name": "RegexFiltersExcludedAmount_one",
+    "value": "%1$d مستبعد"
+  },
+  {
+    "name": "RegexFiltersExcludedAmount_two",
+    "value": "%1$d مستبعد"
+  },
+  {
+    "name": "RegexFiltersExcludedAmount_few",
+    "value": "%1$d مستبعد"
+  },
+  {
+    "name": "RegexFiltersExcludedAmount_many",
+    "value": "%1$d مستبعد"
+  },
+  {
+    "name": "RegexFiltersExcludedAmount_other",
+    "value": "%1$d مستبعد"
+  },
+  {
+    "name": "RegexFiltersHeader",
+    "value": "تصنيف"
+  },
+  {
+    "name": "RegexFiltersShared",
+    "value": "خيارات المشاركة"
+  },
+  {
+    "name": "FiltersShadowBan",
+    "value": "الحظر الصامت"
+  },
+  {
+    "name": "RegexFiltersExcluded",
+    "value": "الفلات المستبعدة"
+  },
+  {
+    "name": "RegexFiltersEnable",
+    "value": "تمكين الفلاتر"
+  },
+  {
+    "name": "RegexFiltersEnableInfo",
+    "value": "Enable filters to hide messages matching keywords or regular expressions, shadow ban users, and hide messages from blocked users."
+  },
+  {
+    "name": "FiltersHideFromBlocked",
+    "value": "إخفاء من المستخدمين المحظورين"
+  },
+  {
+    "name": "FiltersHideFromBlockedNote",
+    "value": "تم تمكين فلاتر الرسالة."
+  },
+  {
+    "name": "RegexFiltersEnableSharedInChats",
+    "value": "تمكين الفلاتر المشتركة في المحادثة"
+  },
+  {
+    "name": "RegexFiltersAdd",
+    "value": "إضافة فلتر"
+  },
+  {
+    "name": "RegexFiltersEdit",
+    "value": "تعديل الفلتر"
+  },
+  {
+    "name": "RegexFiltersPlaceholder",
+    "value": "التعبيرات"
+  },
+  {
+    "name": "EnableExpression",
+    "value": "تمكين عامل التصفية"
+  },
+  {
+    "name": "CaseInsensitiveExpression",
+    "value": "غير حساس لحالة الأحرف"
+  },
+  {
+    "name": "ReversedExpression",
+    "value": "عكس"
+  },
+  {
+    "name": "RegexFiltersAddDescription",
+    "value": "يمكنك أستخدام <a href=\"https://regex101.com/r/3XHb17\">regex101.com</a> لاختبار التعبير النمطي وتصحيح أخطائه."
+  },
+  {
+    "name": "RegexFiltersAddAction",
+    "value": "فتح regex101"
+  },
+  {
+    "name": "RegexFiltersAddError",
+    "value": "خطأ في صيغة Regex"
+  },
+  {
+    "name": "RegexFilterQuickAdd",
+    "value": "إضافة فلتر"
+  },
+  {
+    "name": "RegexFilterBulletinText",
+    "value": "تمت إضافة الفلتر إلى **الفلاتر المشتركة**."
+  },
+  {
+    "name": "RegexFilterBulletinAction",
+    "value": "إلى الدردشة الحالية"
+  },
+  {
+    "name": "RegexFiltersListEmpty",
+    "value": "لا توجد فلاتر هنا بعد."
+  },
+  {
+    "name": "FiltersQuickShadowBan",
+    "value": "الحظر الصامت"
+  },
+  {
+    "name": "FiltersQuickUnshadowBan",
+    "value": "حظر غير صامت"
+  },
+  {
+    "name": "FiltersMenuSelectChat",
+    "value": "اختيار المحادثة"
+  },
+  {
+    "name": "FiltersMenuImport",
+    "value": "إستيراد"
+  },
+  {
+    "name": "FiltersMenuExport",
+    "value": "تصدير"
+  },
+  {
+    "name": "FiltersMenuClear",
+    "value": "مسح"
+  },
+  {
+    "name": "FiltersImportTitle",
+    "value": "حدد طريقة لاستيراد عوامل التصفية"
+  },
+  {
+    "name": "FiltersImportClipboard",
+    "value": "لصق من الحافظة"
+  },
+  {
+    "name": "FiltersImportURL",
+    "value": "استيراد من عنوان URL"
+  },
+  {
+    "name": "FiltersImportAction",
+    "value": "إستيراد"
+  },
+  {
+    "name": "FiltersExportTitle",
+    "value": "حدد طريقة لتصدير عوامل التصفية"
+  },
+  {
+    "name": "FiltersExportClipboard",
+    "value": "نسخ إلى الحافظة"
+  },
+  {
+    "name": "FiltersExportURL",
+    "value": "نشر على dpaste.com"
+  },
+  {
+    "name": "FiltersToastFailPublish",
+    "value": "فشل في نشر عوامل التصفية."
+  },
+  {
+    "name": "FiltersToastFailFetch",
+    "value": "فشل في جلب عوامل التصفية."
+  },
+  {
+    "name": "FiltersToastFailImport",
+    "value": "فشل استيراد عوامل التصفية."
+  },
+  {
+    "name": "FiltersToastFailNoChanges",
+    "value": "عوامل التصفية الحالية هي نفسها."
+  },
+  {
+    "name": "FiltersToastSuccess",
+    "value": "تم استيراد عوامل التصفية بنجاح."
+  },
+  {
+    "name": "FiltersSheetTitle",
+    "value": "تطبيق التغييرات على عوامل التصفية؟"
+  },
+  {
+    "name": "FiltersSheetNewFilters_zero",
+    "value": "**%1$d** عوامل تصفية جديدة"
+  },
+  {
+    "name": "FiltersSheetNewFilters_one",
+    "value": "**%1$d** فلتر جديد"
+  },
+  {
+    "name": "FiltersSheetNewFilters_two",
+    "value": "**%1$d** عوامل تصفية جديدة"
+  },
+  {
+    "name": "FiltersSheetNewFilters_few",
+    "value": "**%1$d** عوامل تصفية جديدة"
+  },
+  {
+    "name": "FiltersSheetNewFilters_many",
+    "value": "**%1$d** فلاتر جديدة"
+  },
+  {
+    "name": "FiltersSheetNewFilters_other",
+    "value": "**%1$d** فلاتر جديدة"
+  },
+  {
+    "name": "FiltersSheetRemovedFilters_zero",
+    "value": "**%1$d** عوامل تصفية محذوفة"
+  },
+  {
+    "name": "FiltersSheetRemovedFilters_one",
+    "value": "**%1$d** فلتر مُزال"
+  },
+  {
+    "name": "FiltersSheetRemovedFilters_two",
+    "value": "**%1$d** فلاتر محذوفة"
+  },
+  {
+    "name": "FiltersSheetRemovedFilters_few",
+    "value": "**%1$d** فلاتر محذوفة"
+  },
+  {
+    "name": "FiltersSheetRemovedFilters_many",
+    "value": "**%1$d** عوامل تصفية محذوفة"
+  },
+  {
+    "name": "FiltersSheetRemovedFilters_other",
+    "value": "**%1$d** عوامل تصفية محذوفة"
+  },
+  {
+    "name": "FiltersSheetUpdatedFilters_zero",
+    "value": "**%1$d** عوامل تصفية محذوفة"
+  },
+  {
+    "name": "FiltersSheetUpdatedFilters_one",
+    "value": "**%1$d** فلتر مُحدث"
+  },
+  {
+    "name": "FiltersSheetUpdatedFilters_two",
+    "value": "**%1$d** عوامل تصفية محذوفة"
+  },
+  {
+    "name": "FiltersSheetUpdatedFilters_few",
+    "value": "**%1$d** عوامل تصفية محذوفة"
+  },
+  {
+    "name": "FiltersSheetUpdatedFilters_many",
+    "value": "**%1$d** عوامل تصفية محذوفة"
+  },
+  {
+    "name": "FiltersSheetUpdatedFilters_other",
+    "value": "**%1$d** عوامل تصفية محذوفة"
+  },
+  {
+    "name": "FiltersSheetNewExclusions_zero",
+    "value": "**%1$d** استثناءات جديدة"
+  },
+  {
+    "name": "FiltersSheetNewExclusions_one",
+    "value": "**%1$d** أستثناء جديد"
+  },
+  {
+    "name": "FiltersSheetNewExclusions_two",
+    "value": "**%1$d** استثناءات جديدة"
+  },
+  {
+    "name": "FiltersSheetNewExclusions_few",
+    "value": "**%1$d** استثناءات جديدة"
+  },
+  {
+    "name": "FiltersSheetNewExclusions_many",
+    "value": "**%1$d** استثناءات جديدة"
+  },
+  {
+    "name": "FiltersSheetNewExclusions_other",
+    "value": "**%1$d** استثناءات جديدة"
+  },
+  {
+    "name": "FiltersSheetRemovedExclusions_zero",
+    "value": "**%1$d** استثناءات جديدة"
+  },
+  {
+    "name": "FiltersSheetRemovedExclusions_one",
+    "value": "**%1$d** أستثناء مُزال"
+  },
+  {
+    "name": "FiltersSheetRemovedExclusions_two",
+    "value": "**%1$d** استثناءات جديدة"
+  },
+  {
+    "name": "FiltersSheetRemovedExclusions_few",
+    "value": "**%1$d** استثناءات جديدة"
+  },
+  {
+    "name": "FiltersSheetRemovedExclusions_many",
+    "value": "**%1$d** استثناءات جديدة"
+  },
+  {
+    "name": "FiltersSheetRemovedExclusions_other",
+    "value": "**%1$d** عوامل تصفية محذوفة"
+  },
+  {
+    "name": "FiltersSheetDialogsToResolve_zero",
+    "value": "**%1$d** حوار لحل المشكلة"
+  },
+  {
+    "name": "FiltersSheetDialogsToResolve_one",
+    "value": "**%1$d** مربع حوار بانتظار المعالجة"
+  },
+  {
+    "name": "FiltersSheetDialogsToResolve_two",
+    "value": "**%1$d** حوار لحل المشكلة"
+  },
+  {
+    "name": "FiltersSheetDialogsToResolve_few",
+    "value": "**%1$d** حوار لحل المشكلة"
+  },
+  {
+    "name": "FiltersSheetDialogsToResolve_many",
+    "value": "**%1$d** حوار لحل المشكلة"
+  },
+  {
+    "name": "FiltersSheetDialogsToResolve_other",
+    "value": "**%1$d** حوار لحل المشكلة"
+  },
+  {
+    "name": "FiltersClearPopupTitle",
+    "value": "مسح الفلاتر"
+  },
+  {
+    "name": "FiltersClearPopupText",
+    "value": "هل أنت متأكد من أنك تريد مسح كل الفلاتر؟"
+  },
+  {
+    "name": "FiltersClearPopupActionText",
+    "value": "حذف"
+  },
+  {
+    "name": "FiltersClearPopupAltActionText",
+    "value": "مسح غير معروف"
+  },
+  {
+    "name": "AppIconHeader",
+    "value": "أيقونة التطبيق"
+  },
+  {
+    "name": "IconDefault",
+    "value": "الافتراضي"
+  },
+  {
+    "name": "IconAlternative",
+    "value": "أبجرام أليت"
+  },
+  {
+    "name": "IconDiscord",
+    "value": "Discord"
+  },
+  {
+    "name": "IconSpotify",
+    "value": "Spotify"
+  },
+  {
+    "name": "IconExtera",
+    "value": "extera"
+  },
+  {
+    "name": "IconNothing",
+    "value": "لا شيء"
+  },
+  {
+    "name": "IconBard",
+    "value": "Google Bard"
+  },
+  {
+    "name": "IconYaPlus",
+    "value": "Yandex Plus"
+  },
+  {
+    "name": "IconAyuTyan",
+    "value": "AyuTyan"
+  },
+  {
+    "name": "WALMode",
+    "value": "تمكين الوضع التجريبي"
+  },
+  {
+    "name": "PushNotificationCount",
+    "value": "تلقّي إشعارات FCM"
+  },
+  {
+    "name": "AyuAttachments",
+    "value": "مجلد مرفقات AyuGram"
+  },
+  {
+    "name": "AyuDatabase",
+    "value": "قاعدة بيانات رسائل AyuGram"
+  },
+  {
+    "name": "TelegramCacheDatabase",
+    "value": "قاعدة بيانات رسائل Telegram"
+  },
+  {
+    "name": "ConfirmationsTitle",
+    "value": "Send Confirmations"
+  },
+  {
+    "name": "StickerConfirmation",
+    "value": "Stickers"
+  },
+  {
+    "name": "GIFConfirmation",
+    "value": "GIFs"
+  },
+  {
+    "name": "VoiceConfirmation",
+    "value": "Voice Messages"
+  },
+  {
+    "name": "RoundConfirmation",
+    "value": "Round Videos"
+  },
+  {
+    "name": "MessageDetailsPC",
+    "value": "التفاصيل"
+  },
+  {
+    "name": "MessageDetailsViewsPC",
+    "value": "المُشاهدات"
+  },
+  {
+    "name": "MessageDetailsSharesPC",
+    "value": "مشاركة"
+  },
+  {
+    "name": "MessageDetailsDatePC",
+    "value": "التاريخ"
+  },
+  {
+    "name": "MessageDetailsEditedDatePC",
+    "value": "تعديل تاريخ"
+  },
+  {
+    "name": "MessageDetailsForwardedDatePC",
+    "value": "تاريخ إعادة التوجيه"
+  },
+  {
+    "name": "MessageDetailsFileSizePC",
+    "value": "حجم المِلَفّ"
+  },
+  {
+    "name": "MessageDetailsFileNamePC",
+    "value": "اسم المِلَفّ"
+  },
+  {
+    "name": "MessageDetailsFilePathPC",
+    "value": "مسار المِلَفّ"
+  },
+  {
+    "name": "MessageDetailsResolutionPC",
+    "value": "الدَّقَّة"
+  },
+  {
+    "name": "MessageDetailsBitratePC",
+    "value": "معدل البت"
+  },
+  {
+    "name": "MessageDetailsMimeTypePC",
+    "value": "نوعا لـ MIME"
+  },
+  {
+    "name": "MessageDetailsDatacenterPC",
+    "value": "مركز البيانات"
+  },
+  {
+    "name": "MessageDetailsPackOwnerPC",
+    "value": "مالك الحُزْمَة"
+  },
+  {
+    "name": "MessageDetailsPackOwnerFetchingPC",
+    "value": "إحضار ..."
+  },
+  {
+    "name": "MessageDetailsPackOwnerNotFoundPC",
+    "value": "تَعَذَّرَ العُثُورُ عليه"
+  },
+  {
+    "name": "KillApp",
+    "value": "إنهاء التطبيق"
+  },
+  {
+    "name": "LReadMessages",
+    "value": "القراءة على المحلية"
+  },
+  {
+    "name": "SReadMessages",
+    "value": "القراءة على السيرفر"
+  },
+  {
+    "name": "GhostModeToggle",
+    "value": "وضع الشبح"
+  },
+  {
+    "name": "EnableGhostMode",
+    "value": "تفعيل وضع الشبح"
+  },
+  {
+    "name": "DisableGhostMode",
+    "value": "تعطيل وضع الشبح"
+  },
+  {
+    "name": "EnableGhostModeTray",
+    "value": "تفعيل وضع الشبح 👻"
+  },
+  {
+    "name": "DisableGhostModeTray",
+    "value": "تعطيل وضع الشبح"
+  },
+  {
+    "name": "GhostModeEnabled",
+    "value": "تم تفعيل وضع الشبح 👻"
+  },
+  {
+    "name": "GhostModeDisabled",
+    "value": "تم إيقاف وضع الشبح 👻"
+  },
+  {
+    "name": "GhostModeGlobalSettings",
+    "value": "الإعدادات العامة"
+  },
+  {
+    "name": "GhostModeGlobalSettingsDescription",
+    "value": "نفس الإعدادات لجميع الحسابات"
+  },
+  {
+    "name": "GhostModeSwitchedToGlobalSettings",
+    "value": "تم اعتماد نفس الإعدادات لجميع الحسابات."
+  },
+  {
+    "name": "GhostModeSwitchedToIndividualSettings",
+    "value": "تم التبديل إلى إعدادات مستقلة لكل حساب."
+  },
+  {
+    "name": "StreamerModeToggle",
+    "value": "وضع البث"
+  },
+  {
+    "name": "EnableStreamerModeTray",
+    "value": "تمكين وضع البث"
+  },
+  {
+    "name": "DisableStreamerModeTray",
+    "value": "تعطيل وضع البث"
+  },
+  {
+    "name": "EditsHistoryTitle",
+    "value": "سِجِلّ التعديلات"
+  },
+  {
+    "name": "EditsHistoryMenuText",
+    "value": "الأحداث"
+  },
+  {
+    "name": "PeekOnlineMenuText",
+    "value": "متصل الآن"
+  },
+  {
+    "name": "ClearDeletedMenuText",
+    "value": "مسح المحذوفة"
+  },
+  {
+    "name": "ViewDeletedMenuText",
+    "value": "مشاهدة محذوفة"
+  },
+  {
+    "name": "ViewFiltersMenuText",
+    "value": "عرض الفلاتر"
+  },
+  {
+    "name": "ShowFilteredMessagesMenuText",
+    "value": "عرض الرسائل المفلترة"
+  },
+  {
+    "name": "HideFilteredMessagesMenuText",
+    "value": "إخفاء الرسائل المفلترة"
+  },
+  {
+    "name": "ReadExclusionMenuText",
+    "value": "أستثناء القراءة"
+  },
+  {
+    "name": "TypingExclusionMenuText",
+    "value": "أستثناء الكتابة"
+  },
+  {
+    "name": "SavingExclusionMenuText",
+    "value": "Saving Exclusion"
+  },
+  {
+    "name": "ExclusionDontSave",
+    "value": "Never Save"
+  },
+  {
+    "name": "ExclusionAlwaysSave",
+    "value": "Always Save"
+  },
+  {
+    "name": "ExclusionTitle",
+    "value": "أختيار نوع ألاستثناء"
+  },
+  {
+    "name": "ExclusionUseDefault",
+    "value": "الافتراضي"
+  },
+  {
+    "name": "ExclusionDontRead",
+    "value": "عدم التعليم كمقروء أبدًا"
+  },
+  {
+    "name": "ExclusionAlwaysRead",
+    "value": "التعليم كمقروء دائمًا"
+  },
+  {
+    "name": "ExclusionDontType",
+    "value": "عدم إظهار الكتابة أبدًا"
+  },
+  {
+    "name": "ExclusionAlwaysType",
+    "value": "إظهار الكتابة دائمًا"
+  },
+  {
+    "name": "PeekOnlineSuccess",
+    "value": "خروج عبر"
+  },
+  {
+    "name": "PeekOnlineFailed",
+    "value": "Couldn\\'t peek online"
+  },
+  {
+    "name": "OneViewTTL",
+    "value": "مشاهدة واحدة"
+  },
+  {
+    "name": "OnePlayTTL",
+    "value": "مشغل واحد"
+  },
+  {
+    "name": "UserMessagesMenuText",
+    "value": "رسائل المستخدم"
+  },
+  {
+    "name": "ReadUntilMenuText",
+    "value": "قراءة الرسائل"
+  },
+  {
+    "name": "DeleteKeepLocally",
+    "value": "الاحتفاظ بها محليًا"
+  },
+  {
+    "name": "BoxActionReset",
+    "value": "إعادة تعيين"
+  },
+  {
+    "name": "ReadConfirmationBoxQuestion",
+    "value": "هل تريد قراءة جميع الرسائل؟"
+  },
+  {
+    "name": "ReadConfirmationBoxActionText",
+    "value": "قراءة"
+  },
+  {
+    "name": "ClearDeletedMessagesTitle",
+    "value": "مسح الرسائل المحذوفة"
+  },
+  {
+    "name": "ClearDeletedMessagesText",
+    "value": "هل أنت متأكد من أنك تريد مسح جميع الرسائل المحذوفة في هذه المحادثة؟"
+  },
+  {
+    "name": "ClearDeletedMessagesActionText",
+    "value": "مسح"
+  },
+  {
+    "name": "DeleteOwnMessages",
+    "value": "حذف رسائلي"
+  },
+  {
+    "name": "DeleteOwnMessagesConfirmation",
+    "value": "هل أنت متأكد من رغبتك في حذف جميع رسائلك من هذه المجموعة؟"
+  },
+  {
+    "name": "SuggestGhostModeTitle",
+    "value": "وضع الشبح"
+  },
+  {
+    "name": "SuggestGhostModeStoryText",
+    "value": "هل تريد تمكين وضع الشبح قبل مشاهدة القصة؟"
+  },
+  {
+    "name": "SuggestGhostModeStoryActionTextYes",
+    "value": "نعم"
+  },
+  {
+    "name": "SuggestGhostModeStoryActionTextNo",
+    "value": "لا"
+  },
+  {
+    "name": "FirstLaunchAlert",
+    "value": "AyuGram برنامج **مجاني**، ويجب الحصول عليه حصريًا من **المصادر الرسمية**. أنت تتحمّل **المسؤولية الكاملة** عن استخدام هذا التطبيق مع حسابك."
+  },
+  {
+    "name": "LocalPremiumAlert",
+    "value": "مع تليجرام المميز المحلي لن تحصل على زيادة في الحدود، ولن تتمكن من إرسال الإيموجي المتحركة. كما أن المستخدمين الآخرين لن يروا إيموجي البريميوم أو لون الاقتباس الخاص بك."
+  },
+  {
+    "name": "ExteraChatsAlert",
+    "value": "لا تطرح أسئلة متعلّقة بـ **AyuGram** في محادثات **exteraGram**. إذا احتجت مساعدة، اسأل في الدردشة الرسمية لـ **AyuGram**."
+  },
+  {
+    "name": "HideNextViewsDescriptionAyu",
+    "value": "إخفاء مشاهداتي بشكل دائم إلى أن يتم تعطيل وضع الشبح."
+  },
+  {
+    "name": "EnableGhostModeStories",
+    "value": "تفعيل وضع الشبح"
+  },
+  {
+    "name": "GhostModeIsActive",
+    "value": "وضع الشبح **مُفعل**"
+  },
+  {
+    "name": "SimpleQuotesAndReplies",
+    "value": "تعطيل الردود الملونة"
+  },
+  {
+    "name": "DisableSimilarChannels",
+    "value": "تعطيل قنوات مماثلة"
+  },
+  {
+    "name": "CollapseSimilarChannels",
+    "value": "طي قنوات مماثلة"
+  },
+  {
+    "name": "HideSimilarChannelsTab",
+    "value": "إخفاء تبويب القنوات المشابهة"
+  },
+  {
+    "name": "UploadSpeedBoostPC",
+    "value": "زيادة سرعة رفع الملفات"
+  },
+  {
+    "name": "MainFont",
+    "value": "خط التطبيق"
+  },
+  {
+    "name": "MonospaceFont",
+    "value": "خط Monospace"
+  },
+  {
+    "name": "FontDefault",
+    "value": "الافتراضي"
+  },
+  {
+    "name": "CustomizeFontTitle",
+    "value": "خط مخصص"
+  },
+  {
+    "name": "MessageShotTopBarText",
+    "value": "اطلق"
+  },
+  {
+    "name": "MessageShotPreview",
+    "value": "معاينة"
+  },
+  {
+    "name": "MessageShotPreferences",
+    "value": "التفضيلات"
+  },
+  {
+    "name": "MessageShotCopy",
+    "value": "نسخ"
+  },
+  {
+    "name": "MessageShotSave",
+    "value": "حفظ"
+  },
+  {
+    "name": "MessageShotTheme",
+    "value": "السمة"
+  },
+  {
+    "name": "MessageShotThemeDefault",
+    "value": "الافتراضي"
+  },
+  {
+    "name": "MessageShotThemeSelectTitle",
+    "value": "تحديد سمة الرسالة"
+  },
+  {
+    "name": "MessageShotThemeApply",
+    "value": "تطبيق"
+  },
+  {
+    "name": "MessageShotShowBackground",
+    "value": "أظهر الخلفية"
+  },
+  {
+    "name": "MessageShotShowDate",
+    "value": "عرض التاريخ"
+  },
+  {
+    "name": "MessageShotShowReactions",
+    "value": "إظهار التفاعلات"
+  },
+  {
+    "name": "MessageShotShowHeaderDecorations",
+    "value": "إظهار زخارف الشريط العلوي"
+  },
+  {
+    "name": "MessageShotShowColorfulReplies",
+    "value": "إظهار الردود الملونة"
+  },
+  {
+    "name": "MessageShotRevealSpoilers",
+    "value": "Reveal spoilers"
+  },
+  {
+    "name": "SendAsSticker",
+    "value": "إرسال كملصق"
+  },
+  {
+    "name": "SendWithSound",
+    "value": "إرسال بصوت"
+  },
+  {
+    "name": "AyuForwardStatusPreparing",
+    "value": "إعادة توجيه الرسائل"
+  },
+  {
+    "name": "AyuForwardStatusLoadingMedia",
+    "value": "جار تحميل الوسائط"
+  },
+  {
+    "name": "AyuForwardStatusForwarding",
+    "value": "إعادة توجيه الرسائل"
+  },
+  {
+    "name": "AyuForwardStatusFinished",
+    "value": "تم"
+  },
+  {
+    "name": "AyuForwardStatusSentCount",
+    "value": "تم إرسال %1$d من %2$d"
+  },
+  {
+    "name": "AyuForwardStatusChunkCount",
+    "value": "القطعة %1$d من %2$d"
+  },
+  {
+    "name": "JumpToBeginning",
+    "value": "إلى البداية"
+  },
+  {
+    "name": "ExpireMediaContextMenuText",
+    "value": "حرق"
+  },
+  {
+    "name": "ExpiringVoiceMessageNote",
+    "value": "يمكن تشغيل هذه الرسالة الصوتية أكثر من مرة كما تريد."
+  },
+  {
+    "name": "ExpiringVideoMessageNote",
+    "value": "يمكن تشغيل رسالة الفيديو هذه بقدر ما تريد من المرات."
+  },
+  {
+    "name": "OncePhotoMessageNote",
+    "value": "يمكن عرض هذه الصورة دون أي قيود زمنية."
+  },
+  {
+    "name": "OnceVideoMessageNote",
+    "value": "يمكن عرض هذا الفيديو دون أي قيود زمنية."
+  },
+  {
+    "name": "UserNotFoundMessage",
+    "value": "لم يتم العثور على المستخدم."
+  },
+  {
+    "name": "DeleteDateMenuText",
+    "value": "تاريخ الحذف"
+  },
+  {
+    "name": "ReadDateMenuText",
+    "value": "تاريخ القراءة"
+  },
+  {
+    "name": "ContentsReadDateMenuText",
+    "value": "تاريخ قراءة المحتوى"
+  },
+  {
+    "name": "UnforwardableContextMenuText",
+    "value": "إعادة التحويل الصريح غير مسموح."
+  },
+  {
+    "name": "LastSeenPillAutoRefresh",
+    "value": "تحديث تلقائي"
+  },
+  {
+    "name": "LikelyOfflineStatus",
+    "value": "غير متصل؟"
+  },
+  {
+    "name": "GhostModeShortcut",
+    "value": "ادخل في وضع الشبح"
+  },
+  {
+    "name": "SettingsShowMessageSeconds",
+    "value": "إظهار ثواني الرسالة"
+  },
+  {
+    "name": "ImproveLinkPreviews",
+    "value": "تحسين معاينات الروابط"
+  },
+  {
+    "name": "ShowOnlyAddedEmojisAndStickers",
+    "value": "عرض الإيموجي والملصقات المضافة فقط"
+  },
+  {
+    "name": "ContextCopyID",
+    "value": "نسخ المعرف الشخصي"
+  },
+  {
+    "name": "IDCopiedToast",
+    "value": "تم نسخ المعرف إلى الحافظة"
+  },
+  {
+    "name": "ContextHideMessage",
+    "value": "إخفاء "
+  },
+  {
+    "name": "SearchByIDResults",
+    "value": "تم العثور عليه بواسطة ID"
+  },
+  {
+    "name": "ContextCopyCallbackData",
+    "value": "نسخ معلومات معاودة الاتصال"
+  },
+  {
+    "name": "RepeatMessage",
+    "value": "تكرار الرسالة"
+  },
+  {
+    "name": "RegisterURLScheme",
+    "value": "نظام تسجيل URL"
+  },
+  {
+    "name": "SessionTerminated",
+    "value": "تم إنهاء الجلسة **%1$s**. لا يزال بإمكانك تصفّح الرسائل المخزّنة مؤقتًا."
+  },
+  {
+    "name": "InvalidConnectionLayerNote",
+    "value": "يجب إعادة تسجيل الدخول بسبب حدوث خطأ أثناء التحديث."
+  },
+  {
+    "name": "LocalPremiumNotice",
+    "value": "أنت تستخدم تيليجرام المميّز المحلي.\nيتيح لك الاستفادة من مترجم محدود الاستخدام وبعض خصائص تيليجرام المميّز التي تعمل محليًا فقط."
+  },
+  {
+    "name": "DonateInfoV0",
+    "value": "ادعمنا بشراء كوب قهوة أو بالمساهمة في تشغيل خادم التحديثات. وإذا كنت تبحث عن شارة، انظر إلى الأعلى — فهي غير متاحة حاليًا."
+  },
+  {
+    "name": "DonateInfoV1",
+    "value": "ادعمنا بشراء قهوة أو بالمساهمة في تشغيل خادم التحديثات."
+  },
+  {
+    "name": "DonateInfoV2",
+    "value": "ادعمنا بشراء قهوة أو بالمساهمة في تشغيل خادم التحديثات، وبعد التبرع راسل **%1$s**."
+  },
+  {
+    "name": "DeveloperPopup",
+    "value": "**{item}** عضو في فريق تطوير exteraGram."
+  },
+  {
+    "name": "SupporterPopup",
+    "value": "**{item}** دعم تطوير exteraGram أو AyuGram وحصل على شارة فريدة."
+  },
+  {
+    "name": "OfficialResourcePopup",
+    "value": "**{item}** هو المصدر الرسمي لـ exteraGram أو AyuGram."
+  },
+  {
+    "name": "SessionInfoOfficialApp",
+    "value": "تطبيق رسمي"
+  },
+  {
+    "name": "SettingsWatermark",
+    "value": "يتم تطوير وصيانة AyuGram بواسطة Radolyn Labs. (نسخة AyuMod)"
+  },
+  {
+    "name": "SettingsDescription",
+    "value": "مجرد نسخة مبنية على exteraGram مع التركيز على ميزات تخالف شروط الخدمة."
+  },
+  {
+    "name": "SecretMessageTecno",
+    "value": "هواتف التيكنو هي الأفضل."
+  },
+  {
+    "name": "SecretMessageXiaomiSuccess",
+    "value": "أنت تستخدم هاتفًا جيداً."
+  },
+  {
+    "name": "SecretMessageXiaomiWarning",
+    "value": "اشتري بيكسل، لا تقلل من شياومي."
+  },
+  {
+    "name": "SecretMessageXiaomiFailure",
+    "value": "تثبيت ROM مخصص."
+  },
+  {
+    "name": "SecretMessageNekogram",
+    "value": "عذراً، لكنه ليس نيكوغرام."
+  },
+  {
+    "name": "ConfirmationSticker",
+    "value": "هل تريد إرسال هذا الملصق؟"
+  },
+  {
+    "name": "ConfirmationGIF",
+    "value": "هل تريد إرسال GIF؟"
+  },
+  {
+    "name": "ConfirmationVoice",
+    "value": "هل تريد إرسال هذه الرسالة الصوتية؟"
+  },
+  {
+    "name": "ConfirmationRound",
+    "value": "Do you want to send this round video?"
+  },
+  {
+    "name": "LoginCompat",
+    "value": "Compatibility mode"
+  },
+  {
+    "name": "LoginCompatInfo",
+    "value": "May help you sign in if you\\'re having issues. Don\\'t enable it unless you need to."
+  },
+  {
+    "name": "LoginCompatFailed",
+    "value": "Compatibility mode didn\\'t work"
+  },
+  {
+    "name": "IntroAbout",
+    "value": "مرحبًا بك في AyuGram لسطح المكتب.\nخصّص تيليجرام كما تريد."
+  },
+  {
+    "name": "AboutText1",
+    "value": "نسخة تيليجرام تخالف شروط الخدمة ومبني على {api_link}."
+  },
+  {
+    "name": "UpdateAyuGram",
+    "value": "تحديث AyuGram"
+  },
+  {
+    "name": "UtilityRestartRequired",
+    "value": "سيتم إغلاق التطبيق خلال 5 ثوانٍ."
+  },
+  {
+    "name": "GesturesInfo",
+    "value": "Double-tap and swipe actions on messages"
+  },
+  {
+    "name": "CustomizationOtherSectionsInfo",
+    "value": "You can find more AyuGram features in the sections above."
+  }
+]
